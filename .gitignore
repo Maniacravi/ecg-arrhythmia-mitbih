@@ -1,0 +1,19 @@
+# uv
+.venv/
+
+# data (raw is large; processed .npz pushed to Drive instead)
+data/raw/
+data/processed/*.npz
+
+# Python
+__pycache__/
+*.pyc
+.ipynb_checkpoints/
+
+# Quarto build artifacts
+post/_freeze/
+post/.quarto/
+post/site_libs/
+
+# OS
+.DS_Store

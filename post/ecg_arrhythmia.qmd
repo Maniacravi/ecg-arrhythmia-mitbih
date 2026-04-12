@@ -1,0 +1,16 @@
+---
+title: "95% Accuracy That's Clinically Useless"
+subtitle: "ECG arrhythmia classification, class imbalance, and what a confusion matrix actually tells you"
+author: "Mani Ravi"
+date: today
+categories: [ECG, deep learning, signal processing, clinical AI]
+format:
+  html:
+    toc: true
+    code-fold: true
+execute:
+  echo: false
+  warning: false
+---
+
+*[in progress]*
